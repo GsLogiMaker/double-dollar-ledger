@@ -1,0 +1,28 @@
+{
+  "name": "double-dollar-ledger",
+  "version": "1.0.0",
+  "description": "Accounting application.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GsLogiMaker/double-dollar-ledger.git"
+  },
+  "keywords": [
+    "accounting",
+    "ledger",
+    "application"
+  ],
+  "author": "GsLogimaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GsLogiMaker/double-dollar-ledger/issues"
+  },
+  "homepage": "https://github.com/GsLogiMaker/double-dollar-ledger#readme",
+  "devDependencies": {
+    "electron": "^29.3.0"
+  }
+}
